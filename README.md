@@ -39,3 +39,5 @@ En este workflow no usamos secretos. Pero si necesitáramos una contraseña para
 **Jennifer Andrea Lopez Gomez:** Automatizaría las pruebas y la revisión del código cada vez que se haga un `pull request`. Así encontraríamos errores antes de subir los cambios a `main`.
 
 **Santiago Alexander Cardenas Laverde:** Automatizaría la publicación de la aplicación cuando se apruebe un cambio en `main`. También pondría avisos cuando algo falle para poder corregirlo rápido.
+
+[Ejecución exitosa](https://github.com/jalopezg4/Entregable-1-CICD/actions/runs/42382874911/job/128434015254)
